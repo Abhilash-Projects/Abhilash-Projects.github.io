@@ -10,6 +10,7 @@ I'm a graduate from balh to blah and blah blah
 ## Projects
 
 ## Research Interests
+I'm interested in working on anything that has flow physics.
 
 ## Contact
 This section should contain all the linkedin, email, google scholar and other stuff.
